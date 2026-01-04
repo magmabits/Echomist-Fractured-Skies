@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "echomist-fs:block/sylvite_tiles",
+    "side": "echomist-fs:block/sylvite_tiles",
+    "top": "echomist-fs:block/sylvite_tiles"
+  }
+}

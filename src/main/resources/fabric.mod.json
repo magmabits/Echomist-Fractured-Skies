@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "echomist-fs",
+	"version": "${version}",
+	"name": "Echomist: Fractured Skies",
+	"description": "Adds Sylvite, a material focused around healing!",
+	"authors": [
+		"magmabits"
+	],
+	"contact": {
+		"homepage": "https://magmabits.xyz",
+		"sources": "https://github.com/magmabits/Echomist-FS"
+	},
+	"license": "ARR",
+	"icon": "assets/echomist-fs/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"xyz.magmabits.echomistfs.Echomistfs"
+		],
+		"fabric-datagen": [
+			"xyz.magmabits.echomistfs.EchomistfsDataGenerator"
+		],
+		"client": [
+			"xyz.magmabits.echomistfs.EchomistfsClient"
+		]
+	},
+	"mixins": [
+		"echomist-fs.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

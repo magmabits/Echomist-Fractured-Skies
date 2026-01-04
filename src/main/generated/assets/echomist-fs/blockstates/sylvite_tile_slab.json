@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "echomist-fs:block/sylvite_tile_slab"
+    },
+    "type=double": {
+      "model": "echomist-fs:block/sylvite_tiles"
+    },
+    "type=top": {
+      "model": "echomist-fs:block/sylvite_tile_slab_top"
+    }
+  }
+}

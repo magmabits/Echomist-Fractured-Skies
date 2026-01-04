@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "echomist-fs:block/sylvite_cluster"
+  }
+}

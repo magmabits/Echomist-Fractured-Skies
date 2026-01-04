@@ -1,0 +1,9 @@
+{
+  "asset_name": "sylvite",
+  "description": {
+    "color": "#5A5EA2",
+    "translate": "trim_material.echomist-fs.sylvite"
+  },
+  "ingredient": "echomist-fs:sylvite_shard",
+  "item_model_index": 1.0
+}

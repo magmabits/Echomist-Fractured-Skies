@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "echomist-fs:block/sylvite_tiles"
+    }
+  }
+}

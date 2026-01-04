@@ -1,0 +1,35 @@
+{
+  "block.echomist-fs.sylvite_block": "Sylvite Block",
+  "block.echomist-fs.sylvite_stairs": "Sylvite Stairs",
+  "block.echomist-fs.sylvite_slab": "Sylvite Slab",
+  "block.echomist-fs.sylvite_wall": "Sylvite Wall",
+  "block.echomist-fs.sylvite_bricks": "Sylvite Bricks",
+  "block.echomist-fs.sylvite_brick_stairs": "Sylvite Brick Stairs",
+  "block.echomist-fs.sylvite_brick_slab": "Sylvite Brick Slab",
+  "block.echomist-fs.sylvite_brick_wall": "Sylvite Brick Wall",
+  "block.echomist-fs.sylvite_tiles": "Sylvite Tiles",
+  "block.echomist-fs.sylvite_tile_stairs": "Sylvite Tile Stairs",
+  "block.echomist-fs.sylvite_tile_slab": "Sylvite Tile Slab",
+  "block.echomist-fs.sylvite_tile_wall": "Sylvite Tile Wall",
+  "block.echomist-fs.chiseled_sylvite": "Chiseled Sylvite",
+  "block.echomist-fs.sylvite_pillar": "Sylvite Pillar",
+  "block.echomist-fs.budding_sylvite": "Budding Sylvite",
+  "block.echomist-fs.small_sylvite_bud": "Small Sylvite Bud",
+  "block.echomist-fs.medium_sylvite_bud": "Medium Sylvite Bud",
+  "block.echomist-fs.large_sylvite_bud": "Large Sylvite Bud",
+  "block.echomist-fs.sylvite_cluster": "Sylvite Cluster",
+
+  "itemgroup.echomist-fs.fs_group": "Echomist: Fractured Skies",
+
+  "item.echomist-fs.sylvite_shard": "Sylvite Shard",
+  "item.echomist-fs.sylvite_halberd": "Sylvite Halberd",
+  "item.echomist-fs.sylvite_token": "Sylvite Token",
+
+  "effect.echomist-fs.afflicted": "Afflicted",
+  "effect.echomist-fs.afflicted.description": "Halves the efficiency of all healing effects.",
+
+  "tooltip.echomist-fs.sylvite_halberd.ability": "§8Inflicts Afflicted, halving the target's healing.§r",
+  "tooltip.echomist-fs.sylvite_token.ability": "§8Use to instantly heal 2 hearts and grant regeneration.§r",
+
+  "trim_material.echomist-fs.sylvite": "Sylvite Material"
+}

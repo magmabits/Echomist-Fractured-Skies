@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "echomist-fs:block/sylvite_tiles"
+  }
+}

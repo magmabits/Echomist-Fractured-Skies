@@ -1,0 +1,23 @@
+{
+  "values": [
+    "echomist-fs:budding_sylvite",
+    "echomist-fs:small_sylvite_bud",
+    "echomist-fs:medium_sylvite_bud",
+    "echomist-fs:large_sylvite_bud",
+    "echomist-fs:sylvite_cluster",
+    "echomist-fs:sylvite_block",
+    "echomist-fs:sylvite_stairs",
+    "echomist-fs:sylvite_slab",
+    "echomist-fs:sylvite_wall",
+    "echomist-fs:sylvite_bricks",
+    "echomist-fs:sylvite_brick_stairs",
+    "echomist-fs:sylvite_brick_slab",
+    "echomist-fs:sylvite_brick_wall",
+    "echomist-fs:sylvite_tiles",
+    "echomist-fs:sylvite_tile_stairs",
+    "echomist-fs:sylvite_tile_slab",
+    "echomist-fs:sylvite_tile_wall",
+    "echomist-fs:chiseled_sylvite",
+    "echomist-fs:sylvite_pillar"
+  ]
+}

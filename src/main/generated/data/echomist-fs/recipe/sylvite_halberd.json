@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "echomist-fs:sylvite_shard"
+    },
+    "d": {
+      "item": "minecraft:diamond_axe"
+    },
+    "e": {
+      "item": "minecraft:echo_shard"
+    },
+    "s": {
+      "item": "minecraft:netherite_scrap"
+    }
+  },
+  "pattern": [
+    " ##",
+    "sd#",
+    "es "
+  ],
+  "result": {
+    "count": 1,
+    "id": "echomist-fs:sylvite_halberd"
+  }
+}

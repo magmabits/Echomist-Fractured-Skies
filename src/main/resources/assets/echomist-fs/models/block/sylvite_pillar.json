@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "echomist-fs:block/sylvite_pillar_top",
+    "side": "echomist-fs:block/sylvite_pillar_side"
+  }
+}

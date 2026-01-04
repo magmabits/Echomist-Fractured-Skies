@@ -1,0 +1,34 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "echomist-fs:item/sylvite_halberd_handheld"
+	},
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 20],
+			"translation": [0, 4.25, 3],
+			"scale": [2, 2, 1.3]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, -20],
+			"translation": [0, 4.25, 3],
+			"scale": [2, 2, 1.3]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -90, 50],
+			"translation": [3, 4.75, -0.5],
+			"scale": [1.8, 1.8, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 90, -50],
+			"translation": [3, 4.75, -0.5],
+			"scale": [1.8, 1.8, 1]
+		},
+		"fixed": {
+			"rotation": [-180, 0, -180],
+			"translation": [0, 0, -12],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
+}

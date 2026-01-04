@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "echomist-fs:block/sylvite_bricks",
+    "side": "echomist-fs:block/sylvite_bricks",
+    "top": "echomist-fs:block/sylvite_bricks"
+  }
+}

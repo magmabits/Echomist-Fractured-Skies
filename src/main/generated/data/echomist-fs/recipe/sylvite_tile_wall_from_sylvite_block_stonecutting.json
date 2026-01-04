@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "echomist-fs:sylvite_block"
+  },
+  "result": {
+    "count": 1,
+    "id": "echomist-fs:sylvite_tile_wall"
+  }
+}

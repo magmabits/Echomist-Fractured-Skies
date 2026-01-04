@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "echomist-fs:block/sylvite_pillar_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "echomist-fs:block/sylvite_pillar"
+    },
+    "axis=z": {
+      "model": "echomist-fs:block/sylvite_pillar_horizontal",
+      "x": 90
+    }
+  }
+}
