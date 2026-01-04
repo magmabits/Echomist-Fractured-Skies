@@ -13,6 +13,8 @@ This mods adds a new material, Sylvite, which focused on a healing-oriented play
 - Chiseled Sylvite
 - Sylvite Pillar
 
+Sylvite Shards can also be used as armor trim materials!
+
 ---
 ### About Echomist
 
@@ -20,5 +22,3 @@ Echomist is an ongoing, work-in-progress mod series.
 More is coming soon, development progress can be viewed on the [Discord](https://discord.gg/gRFRDhFn2p)!
 
 This mod will not be ported to other mod loaders or versions, unless I am willing to do so.
-
---- 
