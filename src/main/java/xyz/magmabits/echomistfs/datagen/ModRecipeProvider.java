@@ -2,7 +2,6 @@ package xyz.magmabits.echomistfs.datagen;
 
 import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
 import net.fabricmc.fabric.api.datagen.v1.provider.FabricRecipeProvider;
-import net.minecraft.block.Blocks;
 import net.minecraft.data.server.recipe.RecipeExporter;
 import net.minecraft.data.server.recipe.ShapedRecipeJsonBuilder;
 import net.minecraft.item.Items;
@@ -103,8 +102,9 @@ public class ModRecipeProvider extends FabricRecipeProvider {
                 .input('#', ModItems.SYLVITE_SHARD)
                 .input('e', Items.ECHO_SHARD)
                 .criterion("has_sylvite_shard", conditionsFromItem(ModItems.SYLVITE_SHARD))
-                .criterion("has_scrap", conditionsFromItem(Items.NETHERITE_SCRAP))
-                .criterion("has_echo_shard", conditionsFromItem(Items.NETHERITE_SCRAP))
+                .criterion("has_netherite_scrap", conditionsFromItem(Items.NETHERITE_SCRAP))
+                .criterion("has_diamond", conditionsFromItem(Items.DIAMOND))
+                .criterion("has_echo_shard", conditionsFromItem(Items.ECHO_SHARD))
                 .offerTo(exporter);
 
         ShapedRecipeJsonBuilder.create(RecipeCategory.COMBAT, ModItems.SYLVITE_TOKEN, 1)

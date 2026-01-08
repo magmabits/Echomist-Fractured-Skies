@@ -78,6 +78,16 @@ public class ModBlockTagProvider extends FabricTagProvider.BlockTagProvider {
                 .add(ModBlocks.CHISELED_SYLVITE)
                 .add(ModBlocks.SYLVITE_PILLAR);
 
+        getOrCreateTagBuilder(BlockTags.STAIRS)
+                .add(ModBlocks.SYLVITE_STAIRS)
+                .add(ModBlocks.SYLVITE_BRICK_STAIRS)
+                .add(ModBlocks.SYLVITE_TILE_STAIRS);
+
+        getOrCreateTagBuilder(BlockTags.SLABS)
+                .add(ModBlocks.SYLVITE_SLAB)
+                .add(ModBlocks.SYLVITE_BRICK_SLAB)
+                .add(ModBlocks.SYLVITE_TILE_SLAB);
+
         getOrCreateTagBuilder(BlockTags.WALLS)
                 .add(ModBlocks.SYLVITE_WALL)
                 .add(ModBlocks.SYLVITE_BRICK_WALL)
